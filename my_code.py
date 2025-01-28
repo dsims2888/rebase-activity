@@ -1,6 +1,6 @@
- def say_hello() -> None:
-     print("hello world!");
+def say_hello() -> None:
+    print("hello world!");
 
 
- if __name__ == "__main__":
-     say_hello();
+if __name__ == "__main__":
+    say_hello();
