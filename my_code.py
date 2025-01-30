@@ -8,7 +8,7 @@ def say_hello(datatype, n) -> None:
 if __name__ == "__main__":
     say_hello('int', 3)
     say_hello('string', "Walter")
-    say_hello('string', "Ruth")
+    say_hello('string', "RutHarold")
     say_hello('string', "Larry")
     say_hello('string', "Helen")
 
